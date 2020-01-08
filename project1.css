@@ -1,0 +1,44 @@
+<style>
+body{
+margin:0px;
+padding:0px;
+background-color:#727091;}
+a{
+color:black;}
+.banner{
+background-image:url("img/menu2.jpg");
+background-size:cover;
+width:auto;
+height:300px;
+text-align:center;
+font-size:50px;
+color:black;
+padding-top:20px;
+}
+.header{
+height:40px;
+margin-top:0px;
+padding-top:5px;
+background-color:rgb(133, 130, 130);
+text-align:center;
+color:white;
+font-size:20px;
+}
+.side{
+float:right;
+border:1px solid red;
+padding:10px;
+margin:100;
+font-family:serif;
+font-size:16px;
+color:#727091
+}
+.contents{
+min-height:500px ;
+padding:50px;
+background-color:white;
+font-family: serif;
+font-size:18px;
+color:rgb(109, 27, 216);
+}
+</style>
