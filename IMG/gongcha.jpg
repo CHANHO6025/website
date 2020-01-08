@@ -1,0 +1,1757 @@
+<!DOCTYPE html>
+<!-- saved from url=(0066)https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en -->
+<html lang="en-gb" prefix="og: http://ogp.me/ns#" xml:lang="en-gb"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" name="fonts" href="./gongcha_files/fonts" as="style" onload="undefined">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    
+<meta name="web-experience-app/config/environment" content="%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22/%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22contentSecurityPolicyMeta%22%3Atrue%2C%22contentSecurityPolicy%22%3A%7B%22default-src%22%3A%5B%22%27none%27%22%5D%2C%22img-src%22%3A%5B%22%27self%27%22%2C%22http%3A//*.mzstatic.com%22%2C%22*.mzstatic.com%22%2C%22*.apple.com%22%2C%22*.googleusercontent.com%22%2C%22data%3A%22%5D%2C%22style-src%22%3A%5B%22%27self%27%22%2C%22%27unsafe-inline%27%22%2C%22*.apple.com%22%5D%2C%22font-src%22%3A%5B%22%27self%27%22%2C%22http%3A//*.apple.com%22%2C%22https%3A//*.apple.com%22%5D%2C%22media-src%22%3A%5B%22%27self%27%22%2C%22blob%3A%22%2C%22http%3A//*%22%2C%22https%3A//*%22%5D%2C%22connect-src%22%3A%5B%22%27self%27%22%2C%22*.apple.com%22%2C%22https%3A//*.mzstatic.com%22%2C%22*.mzstatic.com%22%5D%2C%22script-src%22%3A%5B%22%27self%27%22%2C%22%27unsafe-inline%27%22%2C%22%27unsafe-eval%27%22%2C%22*.apple.com%22%5D%2C%22frame-src%22%3A%5B%22%27self%27%22%2C%22*.apple.com%22%2C%22itmss%3A%22%2C%22itms-appss%3A%22%2C%22itms-bookss%3A%22%2C%22itms-itunesus%3A%22%2C%22itms-messagess%3A%22%2C%22itms-podcasts%3A%22%2C%22itms-watchs%3A%22%2C%22macappstores%3A%22%2C%22musics%3A%22%2C%22apple-musics%3A%22%2C%22podcasts%3A%22%2C%22videos%3A%22%5D%7D%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%221950.3.0+33633137%22%7D%2C%22MEDIA_API%22%3A%7B%22teamId%22%3A%22AMPWebPlay%22%2C%22keyId%22%3A%22WebPlayKid%22%2C%22privateKeyPath%22%3A%22ssl/webplayer.p8%22%2C%22token%22%3A%22eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IldlYlBsYXlLaWQifQ.eyJpc3MiOiJBTVBXZWJQbGF5IiwiaWF0IjoxNTc2MTg2OTY5LCJleHAiOjE1OTE3Mzg5Njl9.1m6jw6vvmsjmk4HZd6uA7-OQ4kUjLlIePDIknuOeai4hQkD_W_jlellXQOgaoSNQvSJlthDEt3f54EYTq0H3Lw%22%7D%2C%22routerScroll%22%3A%7B%22targetElement%22%3A%22%23ember-app%22%7D%2C%22i18n%22%3A%7B%22defaultLocale%22%3A%22en-gb%22%2C%22useDevLoc%22%3Afalse%2C%22pathToLocales%22%3A%22dist/locales%22%7D%2C%22moment%22%3A%7B%22includeLocales%22%3Atrue%2C%22includeTimezone%22%3A%22subset%22%7D%2C%22browserify%22%3A%7B%22transform%22%3A%5B%5B%22babelify%22%2C%7B%22presets%22%3A%5B%22env%22%5D%2C%22global%22%3Atrue%2C%22only%22%3A%7B%7D%7D%5D%5D%7D%2C%22API%22%3A%7B%22AppHost%22%3A%22https%3A//amp-api.apps.apple.com%22%2C%22MZStore%22%3A%22https%3A//itunes.apple.com%22%2C%22UTSHost%22%3A%22https%3A//tv.apple.com/api/uts/preview%22%2C%22PodcastHost%22%3A%22https%3A//amp-api.podcasts.apple.com%22%2C%22StorePlatform%22%3A%22https%3A//uclient-api.itunes.apple.com/WebObjects/MZStorePlatform.woa/wa%22%2C%22BookHost%22%3A%22https%3A//amp-api.books.apple.com%22%2C%22globalElementsPath%22%3A%22/global-elements%22%2C%22videoLocalizationPath%22%3A%22/global/ac_media_player/scripts/ac_media_languages/%22%2C%22appleAppsDomain%22%3A%22apps.apple.com%22%2C%22applePodcastsDomain%22%3A%22podcasts.apple.com%22%2C%22appleBooksDomain%22%3A%22books.apple.com%22%2C%22appleMusicDomain%22%3A%22music.apple.com%22%2C%22appleTvDomain%22%3A%22tv.apple.com%22%2C%22obcMetadataBaseUrl%22%3A%22/api/books-metadata%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%7B%7D%5D%7D%2C%22ember-a11y-testing%22%3A%7B%22componentOptions%22%3A%7B%22turnAuditOff%22%3Atrue%2C%22axeOptions%22%3A%7B%22rules%22%3A%7B%22color-contrast%22%3A%7B%22enabled%22%3Afalse%7D%7D%7D%7D%7D%2C%22ember-short-number%22%3A%7B%22locales%22%3A%5B%22ar-sa%22%2C%22ca-es%22%2C%22cs-cz%22%2C%22da-dk%22%2C%22de-ch%22%2C%22de-de%22%2C%22el-gr%22%2C%22en-au%22%2C%22en-ca%22%2C%22en-gb%22%2C%22en-us%22%2C%22es-419%22%2C%22es-es%22%2C%22es-mx%22%2C%22es-xl%22%2C%22et-ee%22%2C%22fi-fi%22%2C%22fr-ca%22%2C%22fr-fr%22%2C%22hi-in%22%2C%22hr-hr%22%2C%22hu-hu%22%2C%22id-id%22%2C%22is-is%22%2C%22it-it%22%2C%22iw-il%22%2C%22ja-jp%22%2C%22ko-kr%22%2C%22lt-lt%22%2C%22lv-lv%22%2C%22ms-my%22%2C%22nl-nl%22%2C%22no-no%22%2C%22no-nb%22%2C%22nb-no%22%2C%22pl-pl%22%2C%22pt-br%22%2C%22pt-pt%22%2C%22ro-ro%22%2C%22ru-ru%22%2C%22sk-sk%22%2C%22sv-se%22%2C%22th-th%22%2C%22tr-tr%22%2C%22uk-ua%22%2C%22vi-vi%22%2C%22vi-vn%22%2C%22zh-cn%22%2C%22zh-hk%22%2C%22zh-tw%22%2C%22ca%22%2C%22cs%22%2C%22da%22%2C%22de%22%2C%22el%22%2C%22en%22%2C%22es%22%2C%22fi%22%2C%22fr%22%2C%22hi%22%2C%22hr%22%2C%22hu%22%2C%22id%22%2C%22is%22%2C%22it%22%2C%22ja%22%2C%22ko%22%2C%22lt%22%2C%22lv%22%2C%22ms%22%2C%22nb%22%2C%22nl%22%2C%22no%22%2C%22pl%22%2C%22pt%22%2C%22ro%22%2C%22ru%22%2C%22sk%22%2C%22sv%22%2C%22th%22%2C%22tr%22%2C%22uk%22%2C%22vi%22%2C%22zh%22%5D%7D%2C%22METRICS%22%3A%7B%22isEnabled%22%3Atrue%2C%22autoTrackingEnabled%22%3Atrue%2C%22topic%22%3A%22xp_amp_web_exp%22%2C%22appName%22%3A%22web-experience-app%22%2C%22metricsUrl%22%3A%22https%3A//xp.apple.com/report%22%2C%22compoundSeparator%22%3A%22_%22%7D%2C%22contentSecurityPolicyHeader%22%3A%22Content-Security-Policy-Report-Only%22%2C%22exportApplicationGlobal%22%3Afalse%7D">
+<meta http-equiv="Content-Security-Policy" content="default-src &#39;none&#39;; img-src &#39;self&#39; http://*.mzstatic.com *.mzstatic.com *.apple.com *.googleusercontent.com data:; style-src &#39;self&#39; &#39;unsafe-inline&#39; *.apple.com; font-src &#39;self&#39; http://*.apple.com https://*.apple.com; media-src &#39;self&#39; blob: http://* https://*; connect-src &#39;self&#39; *.apple.com https://*.mzstatic.com *.mzstatic.com; script-src &#39;self&#39; &#39;unsafe-inline&#39; &#39;unsafe-eval&#39; *.apple.com; frame-src &#39;self&#39; *.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:; ">
+<!-- EMBER_CLI_FASTBOOT_TITLE -->  
+
+    <meta name="version" content="1950.3.0">
+
+    <link integrity="" rel="stylesheet" href="./gongcha_files/web-experience-app-1a56e26295b1abb1ef73fbe7722e5547.css" data-rtl="/assets/web-experience-rtl-app-23a8e783ce1f2af7b431e35129ca7385.css">
+
+    
+    <meta name="ember-cli-head-start" content=""><title>‎공차 on the App&nbsp;Store</title>
+<link rel="canonical" href="https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en">
+  <meta name="description" content="‎Read reviews, compare customer ratings, see screenshots and learn more about 공차. Download 공차 and enjoy it on your iPhone, iPad and iPod touch." id="ember132" class="ember-view">
+</meta>
+  <meta name="keywords" content="공차, 주식회사 스마트로, Lifestyle, Food &amp; Drink, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes" id="ember134" class="ember-view">
+</meta>
+  <meta property="og:title" content="‎공차" id="ember136" class="ember-view">
+</meta>
+  <meta property="og:description" content="‎(주)공차코리아의 공식 멤버십 서비스 애플리케이션 입니다.
+
+○ 공차 멤버십은? 
+공차를 이용해주시는 고객님을 위해 스탬프를 적립하여 혜택을 돌려드리는 모바일 멤버십 서비스입니다. 스탬프 적립 및 무료 음료 쿠폰, 이벤트 쿠폰 등 다양한 혜택을 받으실 수 있습니다. 또한 멤버십 오더를 통해 음료, 푸드 등 다양한 메뉴를 주문할 수 있으며, 멤버십 금액권을 충전하거나 나만의 조합으로 멤버십 e-Gift를 선물할 수 있습니다. 
+
+○ 주요 기능 안내
+- 멤버십 카드 : 멤버십 카드의 바코드를 제시하시면 스탬프를 적립해 드립니다.
+- 스…" id="ember138" class="ember-view">
+</meta>
+  <meta property="og:site_name" content="App Store" id="ember140" class="ember-view">
+</meta>
+  <meta property="og:url" content="https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en" id="ember142" class="ember-view">
+</meta>
+  <meta property="og:image" content="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/1200x630wa.png" id="ember144" class="ember-view">
+</meta>
+  <meta property="og:image:alt" content="공차 on the App Store" id="ember146" class="ember-view">
+</meta>
+  <meta property="og:image:secure_url" content="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/1200x630wa.png" id="ember148" class="ember-view">
+</meta>
+  <meta property="og:image:type" content="image/png" id="ember150" class="ember-view">
+</meta>
+  <meta property="og:image:width" content="1200" id="ember152" class="ember-view">
+</meta>
+  <meta property="og:image:height" content="630" id="ember154" class="ember-view">
+</meta>
+  <meta property="og:type" content="website" id="ember156" class="ember-view">
+</meta>
+  <meta property="og:locale" content="en_GB" id="ember158" class="ember-view">
+</meta>
+  <meta property="fb:app_id" content="116556461780510" id="ember160" class="ember-view">
+</meta>
+  <meta name="twitter:title" content="‎공차" id="ember162" class="ember-view">
+</meta>
+  <meta name="twitter:description" content="‎(주)공차코리아의 공식 멤버십 서비스 애플리케이션 입니다.
+
+○ 공차 멤버십은? 
+공차를 이용해주시는 고객님을 위해 스탬프를 적립하여 혜택을 돌려드리는 모바일 멤버십 서비스입니다. 스탬프 적립 및 무료 음료 쿠폰, 이벤트 쿠폰 등 다양한 혜택을 받으실 수 있습니다. 또한 멤버십 오더를 통해 음료, 푸드 등 다양한 메뉴를 주문할 수 있으며, 멤버십 금액권을 충전하거나 나만의 조합으로 멤버십 e-Gift를 선물할 수 있습니다. 
+
+○ 주요 기능 안내
+- 멤버십 카드 : 멤버십 카드의 바코드를 제시하시면 스탬프를 적립해 드립니다.
+- 스…" id="ember164" class="ember-view">
+</meta>
+  <meta name="twitter:site" content="@AppStore" id="ember166" class="ember-view">
+</meta>
+  <meta name="twitter:domain" content="AppStore" id="ember168" class="ember-view">
+</meta>
+  <meta name="twitter:image" content="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/600x600wa.png" id="ember170" class="ember-view">
+</meta>
+  <meta name="twitter:image:alt" content="공차 on the App Store" id="ember172" class="ember-view">
+</meta>
+  <meta name="twitter:card" content="summary_large_image" id="ember174" class="ember-view">
+</meta>
+  <meta name="apple-itunes-app" content="app-id=375380948, app-argument=https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en" id="ember176" class="ember-view">
+</meta>
+  <script name="schema:software-application" id="ember178" class="ember-view" type="application/ld+json">{"@context":"http://schema.org","@type":"SoftwareApplication","name":"공차","description":"(주)공차코리아의 공식 멤버십 서비스 애플리케이션 입니다.\n\n○ 공차 멤버십은? \n공차를 이용해주시는 고객님을 위해 스탬프를 적립하여 혜택을 돌려드리는 모바일 멤버십 서비스입니다. 스탬프 적립 및 무료 음료 쿠폰, 이벤트 쿠폰 등 다양한 혜택을 받으실 수 있습니다. 또한 멤버십 오더를 통해 음료, 푸드 등 다양한 메뉴를 주문할 수 있으며, 멤버십 금액권을 충전하거나 나만의 조합으로 멤버십 e-Gift를 선물할 수 있습니다. \n\n○ 주요 기능 안내\n- 멤버십 카드 : 멤버십 카드의 바코드를 제시하시면 스탬프를 적립해 드립니다.\n- 스탬프 카드 : 제조 음료 1잔 당 1개의 스탬프를 적립해 드립니다. 10개의 스탬프가 적립되면 카드가 완성되며 쿠폰으로 전환하여 이용하실 수 있습니다.\n- 멤버십 오더 : 공차 멤버십 앱을 통해 간편하게 주문/결제를 하고 제조가 완료되면 매장에서 바로 찾아갈 수 있는 모바일 간편 주문 서비스입니다.\n- 멤버십 금액권 : 공차에서 제품을 구매하고 결제수단으로 이용할 수 있는 모바일 충전(금액)형 카드입니다.\n- 멤버십 e-Gift : 공차 메뉴 교환권 쿠폰으로 모바일 결제 및 현장 결제할 수 있습니다.\n- 선물하기 : 공차 멤버십 앱으로 멤버십 금액권과 멤버십 e-Gift를 선물할 수 있는 서비스 입니다.\n- 내쿠폰 : 이벤트 쿠폰을 확인 할 수 있습니다. 쿠폰 이용시에는 쿠폰을 선택해 바코드를 제시하시면 혜택을 받을 수 있습니다.\n- 쿠폰 선물하기 : 내쿠폰에서 받은 쿠폰을 선물할 수 있습니다.\n- 이벤트 : 진행 중인 이벤트를 확인할 수 있습니다. \n- 공지사항 : 신메뉴 출시 소식 및 중요한 공지 사항을 안내드립니다.\n- 매장찾기 : 매장명을 검색하여 위치와 정보를 확인 할 수 있습니다. GPS를 켜면 가장 가까운 매장을 안내드립니다.\n- 이용안내 : 회원 이용약관, 개인정보 처리방침, 위치정보 이용약관외에 고객님이 많이 하시는 질문에 대한 답변을 확인할 수 있습니다.\n\n○ 접근 권한 안내\n- 서비스 이용을 위한 접근권한 허용이 필요합니다. 선택적 접근 권한의 경우 허용하지 않아도 앱 이용은 가능하나 일부 서비스 이용에 제한이 있을 수 있습니다. \n\n[필수적 접근 권한]\n- 없음\n\n[선택적 접근 권한]\n- 알림 : 스탬프 적립 및 쿠폰 발행 정보 알림 \n- 위치 : 주변 매장 검색 시 사용\n- 주소록 : 선물발송 대상의 연락처 검색 시 사용\n- 카메라 : 바코드/QR 코드 인식 시 사용\n\n* Wi-Fi와 데이터 네트워크 환경에서 모두 이용하실 수 있으나, 가입하신 통신사 요금정책에따라 데이터요금이 발생할 수 있습니다.\n* 공차 전 매장에서 사용 가능하나 휴게소 및 일부 매장은 제외됩니다.\n* 애플리케이션의 안정된 사용을 위해 업데이트 버전 등록 시, 고객님의 지속적인 업데이트를 부탁 드립니다.\n* iOS 9.0 이상 버전에서 서비스가 제공됩니다.\n* 애플리케이션 사용 시 불편 및 개선사항 등이 있으실 경우, 리뷰에 의견을 남기시면 답변을 드릴 수 없으므로 고객센터 및 웹사이트로 내용을 보내주시기 바랍니다. \n\n고객센터 : 02-779-7758 (평일 09:00 - 17:00 운영, 주말 및 공휴일 제외) \n웹사이트 : http:// www.gong-cha.co.kr/","screenshot":["https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/300x0w.jpg","https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/300x0w.jpg","https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/300x0w.jpg","https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/300x0w.jpg","https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/300x0w.jpg","https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/300x0w.jpg"],"image":"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/1200x630wa.png","applicationCategory":"Lifestyle","datePublished":"16 Aug 2017","operatingSystem":"Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.","author":{"@type":"Person","name":"주식회사 스마트로","url":"https://apps.apple.com/kr/developer/%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A1%9C/id408364314?l=en"},"aggregateRating":{"@type":"AggregateRating","ratingValue":1.4,"reviewCount":559},"offers":{"@type":"Offer","category":"free","price":0,"priceCurrency":null}}
+</script>
+  <meta name="apple:content_id" content="1083295050" id="ember180" class="ember-view">
+</meta>
+
+<meta name="ember-cli-head-end" content="">
+<link rel="stylesheet" type="text/css" href="./gongcha_files/ac-global-nav.8269fed2d7634a48a7a62a7fd23027ab.css" data-global-elements-nav-styles=""><link rel="stylesheet" type="text/css" href="./gongcha_files/ac-global-footer.9b87993faec05e49f8c617301a82587c.css" data-global-elements-footer-styles=""></head>
+  <body class="has-js ember-application no-touch"><aside id="ac-gn-segmentbar" class="ac-gn-segmentbar" lang="ko-KR" dir="ltr" data-strings="{ &#39;exit&#39;: &#39;스토어 나가기&#39;, &#39;view&#39;: &#39;{%STOREFRONT%} 스토어 보기&#39;, &#39;segments&#39;: { &#39;smb&#39;: &#39;비즈니스 스토어 홈&#39;, &#39;eduInd&#39;: &#39;교육 할인 스토어 홈&#39;, &#39;other&#39;: &#39;스토어 홈&#39; } }">
+</aside><input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate"><nav id="ac-globalnav" class="no-js" role="navigation" aria-label="글로벌" data-hires="false" data-analytics-region="global nav" lang="ko-KR" dir="ltr" data-store-locale="kr" data-store-api="//www.apple.com/[storefront]/shop/bag/status" data-search-locale="ko_KR" data-search-api="//www.apple.com/search-services/suggestions/">
+	<div class="ac-gn-content">
+		<ul class="ac-gn-header">
+			<li class="ac-gn-item ac-gn-menuicon">
+				<label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					</span>
+					<span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						<span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					</span>
+				</label>
+				<a href="https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en#ac-gn-menustate" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					<span class="ac-gn-menuanchor-label">Global Nav 메뉴 열기</span>
+				</a>
+				<a href="https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en#" role="button" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					<span class="ac-gn-menuanchor-label">Global Nav 메뉴 닫기</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/kr/" data-analytics-title="apple home" id="ac-gn-firstfocus-small">
+					<span class="ac-gn-link-text">Apple</span>
+				</a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+				<a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/kr/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="쇼핑백" data-string-badge="품목이 포함된 쇼핑백">
+					<span class="ac-gn-link-text">쇼핑백</span>
+					<span class="ac-gn-bag-badge"></span>
+				</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<div class="ac-gn-search-placeholder-container" role="search">
+			<div class="ac-gn-search ac-gn-search-small">
+				<a id="ac-gn-link-search-small" class="ac-gn-link" href="https://www.apple.com/kr/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link="" aria-label="apple.com 검색">
+					<div class="ac-gn-search-placeholder-bar">
+						<div class="ac-gn-search-placeholder-input">
+							<div class="ac-gn-search-placeholder-input-text" aria-hidden="true">
+								<div class="ac-gn-link-search ac-gn-search-placeholder-input-icon"></div>
+								<span class="ac-gn-search-placeholder">apple.com 검색</span>
+							</div>
+						</div>
+						<div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close">
+							<span class="ac-gn-searchview-close-cancel" aria-hidden="true">취소</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</div>
+		<ul class="ac-gn-list">
+			<li class="ac-gn-item ac-gn-apple">
+				<a class="ac-gn-link ac-gn-link-apple" href="https://www.apple.com/kr/" data-analytics-title="apple home" id="ac-gn-firstfocus">
+						<span class="ac-gn-link-text">Apple</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+				<a class="ac-gn-link ac-gn-link-mac" href="https://www.apple.com/kr/mac/" data-analytics-title="mac">
+						<span class="ac-gn-link-text">Mac</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+				<a class="ac-gn-link ac-gn-link-ipad" href="https://www.apple.com/kr/ipad/" data-analytics-title="ipad">
+						<span class="ac-gn-link-text">iPad</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+				<a class="ac-gn-link ac-gn-link-iphone" href="https://www.apple.com/kr/iphone/" data-analytics-title="iphone">
+						<span class="ac-gn-link-text">iPhone</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+				<a class="ac-gn-link ac-gn-link-watch" href="https://www.apple.com/kr/watch/" data-analytics-title="watch">
+						<span class="ac-gn-link-text">Watch</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+				<a class="ac-gn-link ac-gn-link-music" href="https://www.apple.com/kr/music/" data-analytics-title="music">
+						<span class="ac-gn-link-text">Music</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+				<a class="ac-gn-link ac-gn-link-support" href="https://support.apple.com/ko-kr" data-analytics-title="support">
+						<span class="ac-gn-link-text">고객지원</span>
+					</a>
+			</li>
+			<li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+				<a id="ac-gn-link-search" class="ac-gn-link ac-gn-link-search" href="https://www.apple.com/kr/search" data-analytics-title="search" data-analytics-click="search" data-analytics-intrapage-link="" aria-label="apple.com 검색"></a>
+			</li>
+			<li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+				<a class="ac-gn-link ac-gn-link-bag" href="https://www.apple.com/kr/shop/goto/bag" data-analytics-title="bag" data-analytics-click="bag" aria-label="쇼핑백" data-string-badge="품목이 포함된 쇼핑백">
+						<span class="ac-gn-link-text">쇼핑백</span>
+						<span class="ac-gn-bag-badge" aria-hidden="true"></span>
+					</a>
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+			</li>
+		</ul>
+		<aside id="ac-gn-searchview" class="ac-gn-searchview" role="search" data-analytics-region="search">
+			<div class="ac-gn-searchview-content">
+				<div class="ac-gn-searchview-bar">
+					<div class="ac-gn-searchview-bar-wrapper">
+						<form id="ac-gn-searchform" class="ac-gn-searchform" action="https://www.apple.com/kr/search" method="get">
+							<div class="ac-gn-searchform-wrapper">
+								<input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" aria-label="apple.com 검색" placeholder="apple.com 검색" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="true" aria-owns="quicklinks suggestions">
+								<input id="ac-gn-searchform-src" type="hidden" name="src" value="itunes_serp">
+								<button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="검색 실행"></button>
+								<button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="검색 기록 삭제하기">
+										<span class="ac-gn-searchform-reset-background"></span>
+									</button>
+							</div>
+						</form>
+						<button id="ac-gn-searchview-close-small" class="ac-gn-searchview-close ac-gn-searchview-close-small" aria-label="검색 취소">
+								<span class="ac-gn-searchview-close-cancel" aria-hidden="true">
+									취소
+								</span>
+							</button>
+					</div>
+				</div>
+				<aside id="ac-gn-searchresults" class="ac-gn-searchresults" data-string-quicklinks="빠른 링크" data-string-suggestions="제안 검색" data-string-noresults=""></aside>
+			</div>
+			<button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="검색 취소">
+					<span class="ac-gn-searchview-close-wrapper">
+						<span class="ac-gn-searchview-close-left"></span>
+						<span class="ac-gn-searchview-close-right"></span>
+					</span>
+				</button>
+		</aside>
+		<aside class="ac-gn-bagview" data-analytics-region="bag">
+			<div class="ac-gn-bagview-scrim">
+				<span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+			</div>
+			<div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+			</div>
+		</aside>
+	</div>
+</nav><div class="ac-gn-blur"></div><div id="ac-gn-curtain" class="ac-gn-curtain"></div><div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+    <div id="ember-app">
+      
+    </div>
+    <div id="modal-container"></div>
+    <script integrity="" src="./gongcha_files/vendor-f0e7f28e70139ae3eb8c9fd66315b6b5.js.다운로드"></script>
+    <script integrity="" src="./gongcha_files/web-experience-app-4d4e81e59854cb41b9d48f9d7b17e9f2.js.다운로드"></script>
+    <script src="./gongcha_files/musickit.js.다운로드"></script>
+
+    <div id="ember-basic-dropdown-wormhole"></div>
+  
+
+<div class="ember-view" id="ember128"><!---->
+
+<!---->
+
+<!---->
+
+<main class="selfclear is-app-theme">
+  <style id="ember181" class="ember-view"><!----></style>
+
+  <!---->
+
+  <div id="ember182" class="focusing-outlet ember-view"><div id="ember184" class="focusing-outlet ember-view">
+  <input id="localnav-menustate" class="localnav-menustate" type="checkbox">
+<nav id="localnav" class="we-localnav localnav we-localnav--app-store" role="navigation" data-sticky="">
+  <div class="localnav-wrapper">
+    <div class="localnav-background we-localnav__background"></div>
+    <div class="localnav-content we-localnav__content">
+      <div class="localnav-title we-localnav__title">
+        <a href="https://www.apple.com/kr/ios/app-store/" data-we-link-to-exclude=""><span class="we-localnav__title__product" data-test-we-localnav-store-title="">App&nbsp;Store</span></a> <span class="we-localnav__title__qualifier" data-test-we-localnav-preview-title="">Preview</span>
+      </div>
+      <div class="localnav-menu we-localnav__menu we-localnav__menu--app">
+        <div class="localnav-actions we-localnav__actions">
+            
+<!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+<span class="we-localnav__shim" aria-hidden="true"></span>
+<label id="localnav-curtain" for="localnav-menustate"></label>
+
+
+<div id="ember187" class="animation-wrapper is-visible ember-view">
+<!---->
+    <div id="ember188" class="ember-view"><div class="l-content-width we-banner" role="alert">
+    <p class="we-banner__copy">This app is available only on the App&nbsp;Store for iPhone and iPad.</p>
+</div>
+</div>
+
+  <div id="ember189" class="ember-view"><section id="ember190" class="l-content-width section section--hero product-hero ember-view"><div class="l-row">
+  <div class="product-hero__media l-column small-5 medium-4 large-3 small-valign-top">
+      <picture id="ember191" class="we-artwork ember-view product-hero__artwork we-artwork--fullwidth we-artwork--ios-app-icon">
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/230x0w.jpg 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/460x0w.jpg 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/690x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/217x0w.jpg 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/434x0w.jpg 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/651x0w.jpg 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/246x0w.jpg 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/492x0w.jpg 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/a9/04/eca9045f-e52b-b15b-e223-8b98eeb7db28/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/738x0w.jpg 3x">
+        <img class="we-artwork__image ember191" src="./gongcha_files/246x0w.jpg" style="background-color: #c2202c;" alt="" height="246" width="246">
+
+  <style>
+    .ember191, #ember191::before {
+          width: 246px;
+          height: 246px;
+        }
+        .ember191::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember191, #ember191::before {
+          width: 217px;
+          height: 217px;
+        }
+        .ember191::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember191, #ember191::before {
+          width: 230px;
+          height: 230px;
+        }
+        .ember191::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+  </div>
+
+  <div class="l-column small-7 medium-8 large-9 small-valign-top">
+    <header class="product-header app-header product-header--padded-start" role="banner">
+<!---->
+      <h1 class="product-header__title app-header__title">
+        공차
+          <span class="badge badge--product-title">4+</span>
+      </h1>
+
+<!---->
+      <h2 class="product-header__identity app-header__identity">
+        <a href="https://apps.apple.com/kr/developer/%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A1%9C/id408364314?l=en" class="link" data-metrics-click="{&quot;actionDetails&quot;:{&quot;type&quot;:&quot;developer&quot;},&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/developer/%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A1%9C/id408364314?l=en&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;408364314&quot;}" dir="auto">
+          주식회사 스마트로
+        </a>
+      </h2>
+
+        <ul class="product-header__list app-header__list">
+            <li class="product-header__list__item">
+              <ul class="inline-list inline-list--mobile-compact">
+                <li class="inline-list__item">
+                  #77 in Lifestyle
+                </li>
+              </ul>
+            </li>
+
+            <li class="product-header__list__item app-header__list__item--user-rating">
+              <ul class="inline-list inline-list--mobile-compact">
+                <li class="inline-list__item">
+                  <figure aria-label="1.4 out of 5" id="ember195" class="we-star-rating ember-view"><span class="we-star-rating-stars-outlines">
+  <span class="we-star-rating-stars we-star-rating-stars-1_5"></span>
+</span>
+  <figcaption class="we-rating-count star-rating__count">1.4, 559 Ratings</figcaption>
+</figure>
+                </li>
+              </ul>
+            </li>
+        </ul>
+
+      <ul class="product-header__list app-header__list">
+<!---->
+        <li class="product-header__list__item">
+          <ul class="inline-list inline-list--mobile-compact">
+              <li class="inline-list__item inline-list__item--bulleted app-header__list__item--price">Free</li>
+
+<!---->          </ul>
+        </li>
+
+<!---->
+<!---->      </ul>
+
+<!---->
+<!---->
+<!---->
+<!---->    </header>
+  </div>
+</div>
+</section>
+
+<!---->
+    <section class="l-content-width section section--bordered">
+      <h2 class="section__headline">iPhone Screenshots</h2>
+    <div id="ember197" class="we-screenshot-viewer ember-view"><div class="we-screenshot-viewer__screenshots">
+  <ul class="l-row l-row--peek">
+        <li class="l-column small-2 medium-3 large-3">
+          <picture id="ember199" class="we-artwork ember-view we-artwork--fullwidth we-artwork--screenshot-platform-iphone we-artwork--screenshot-version-iphone-6-5 we-artwork--screenshot-orientation-portrait">
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/230x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/460x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/690x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/157x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/314x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/300x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/600x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/07/cb/6f/07cb6fa6-c6c6-912d-9634-1424be8eeb06/pr_source.png/900x0w.png 3x">
+        <img class="we-artwork__image ember199" src="./gongcha_files/300x0w.png" style="" alt="" height="649" width="300">
+
+  <style>
+    .ember199, #ember199::before {
+          width: 300px;
+          height: 649px;
+        }
+        .ember199::before {
+          padding-top: 216.33333333333334%;
+        }
+@media (min-width: 736px) {
+          .ember199, #ember199::before {
+          width: 157px;
+          height: 339px;
+        }
+        .ember199::before {
+          padding-top: 215.92356687898092%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember199, #ember199::before {
+          width: 230px;
+          height: 497px;
+        }
+        .ember199::before {
+          padding-top: 216.08695652173915%;
+        }
+        }
+  </style>
+</picture>
+        </li>
+        <li class="l-column small-2 medium-3 large-3">
+          <picture id="ember204" class="we-artwork ember-view we-artwork--fullwidth we-artwork--screenshot-platform-iphone we-artwork--screenshot-version-iphone-6-5 we-artwork--screenshot-orientation-portrait">
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/230x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/460x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/690x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/157x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/314x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/300x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/600x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/60/38/8e/60388ec1-046a-d678-79eb-fcdea981afdd/pr_source.png/900x0w.png 3x">
+        <img class="we-artwork__image ember204" src="./gongcha_files/300x0w(1).png" style="" alt="" height="649" width="300">
+
+  <style>
+    .ember204, #ember204::before {
+          width: 300px;
+          height: 649px;
+        }
+        .ember204::before {
+          padding-top: 216.33333333333334%;
+        }
+@media (min-width: 736px) {
+          .ember204, #ember204::before {
+          width: 157px;
+          height: 339px;
+        }
+        .ember204::before {
+          padding-top: 215.92356687898092%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember204, #ember204::before {
+          width: 230px;
+          height: 497px;
+        }
+        .ember204::before {
+          padding-top: 216.08695652173915%;
+        }
+        }
+  </style>
+</picture>
+        </li>
+        <li class="l-column small-2 medium-3 large-3">
+          <picture id="ember209" class="we-artwork ember-view we-artwork--fullwidth we-artwork--screenshot-platform-iphone we-artwork--screenshot-version-iphone-6-5 we-artwork--screenshot-orientation-portrait">
+        <source class="we-artwork__source" srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/230x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/460x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/690x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/157x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/314x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/300x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/600x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/7f/e5/9d7fe55c-ccee-563b-840d-eadc4d070b81/pr_source.png/900x0w.png 3x">
+        <img class="we-artwork__image ember209" src="./gongcha_files/300x0w(2).png" style="" alt="" height="649" width="300">
+
+  <style>
+    .ember209, #ember209::before {
+          width: 300px;
+          height: 649px;
+        }
+        .ember209::before {
+          padding-top: 216.33333333333334%;
+        }
+@media (min-width: 736px) {
+          .ember209, #ember209::before {
+          width: 157px;
+          height: 339px;
+        }
+        .ember209::before {
+          padding-top: 215.92356687898092%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember209, #ember209::before {
+          width: 230px;
+          height: 497px;
+        }
+        .ember209::before {
+          padding-top: 216.08695652173915%;
+        }
+        }
+  </style>
+</picture>
+        </li>
+        <li class="l-column small-2 medium-3 large-3">
+          <picture id="ember214" class="we-artwork ember-view we-artwork--fullwidth we-artwork--screenshot-platform-iphone we-artwork--screenshot-version-iphone-6-5 we-artwork--screenshot-orientation-portrait">
+        <source class="we-artwork__source" srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/230x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/460x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/690x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/157x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/314x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/300x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/600x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/cf/2c/c3cf2c30-f8e6-fd7c-2dae-834a6f543cb0/pr_source.png/900x0w.png 3x">
+        <img class="we-artwork__image ember214" src="./gongcha_files/300x0w(3).png" style="" alt="" height="649" width="300">
+
+  <style>
+    .ember214, #ember214::before {
+          width: 300px;
+          height: 649px;
+        }
+        .ember214::before {
+          padding-top: 216.33333333333334%;
+        }
+@media (min-width: 736px) {
+          .ember214, #ember214::before {
+          width: 157px;
+          height: 339px;
+        }
+        .ember214::before {
+          padding-top: 215.92356687898092%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember214, #ember214::before {
+          width: 230px;
+          height: 497px;
+        }
+        .ember214::before {
+          padding-top: 216.08695652173915%;
+        }
+        }
+  </style>
+</picture>
+        </li>
+        <li class="l-column small-2 medium-3 large-3">
+          <picture id="ember219" class="we-artwork ember-view we-artwork--fullwidth we-artwork--screenshot-platform-iphone we-artwork--screenshot-version-iphone-6-5 we-artwork--screenshot-orientation-portrait">
+        <source class="we-artwork__source" srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/230x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/460x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/690x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/157x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/314x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/300x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/600x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/02/de/a702deae-487e-3006-f4ae-800dd3e287c5/pr_source.png/900x0w.png 3x">
+        <img class="we-artwork__image ember219" src="./gongcha_files/300x0w(4).png" style="" alt="" height="649" width="300">
+
+  <style>
+    .ember219, #ember219::before {
+          width: 300px;
+          height: 649px;
+        }
+        .ember219::before {
+          padding-top: 216.33333333333334%;
+        }
+@media (min-width: 736px) {
+          .ember219, #ember219::before {
+          width: 157px;
+          height: 339px;
+        }
+        .ember219::before {
+          padding-top: 215.92356687898092%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember219, #ember219::before {
+          width: 230px;
+          height: 497px;
+        }
+        .ember219::before {
+          padding-top: 216.08695652173915%;
+        }
+        }
+  </style>
+</picture>
+        </li>
+        <li class="l-column small-2 medium-3 large-3">
+          <picture id="ember224" class="we-artwork ember-view we-artwork--fullwidth we-artwork--screenshot-platform-iphone we-artwork--screenshot-version-iphone-6-5 we-artwork--screenshot-orientation-portrait">
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/230x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/460x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/690x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/157x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/314x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/300x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/600x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/17/84/33/17843396-f331-ce36-d296-56a21a57cf74/pr_source.png/900x0w.png 3x">
+        <img class="we-artwork__image ember224" src="./gongcha_files/300x0w(5).png" style="" alt="" height="649" width="300">
+
+  <style>
+    .ember224, #ember224::before {
+          width: 300px;
+          height: 649px;
+        }
+        .ember224::before {
+          padding-top: 216.33333333333334%;
+        }
+@media (min-width: 736px) {
+          .ember224, #ember224::before {
+          width: 157px;
+          height: 339px;
+        }
+        .ember224::before {
+          padding-top: 215.92356687898092%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember224, #ember224::before {
+          width: 230px;
+          height: 497px;
+        }
+        .ember224::before {
+          padding-top: 216.08695652173915%;
+        }
+        }
+  </style>
+</picture>
+        </li>
+  </ul>
+<!----></div>
+</div>
+  </section>
+
+
+    <section class="l-content-width section section--bordered">
+      <div class="section__description">
+        <h2 class="section__headline visuallyhidden">Description</h2>
+        <div class="l-row">
+          <div id="ember228" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view l-column small-12 medium-9 large-8">    
+
+      <div data-clamp="" id="ember230" class="we-clamp ember-view" ismorertl="false" style="height: 90px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);"><p dir="ltr" data-test-bidi="">(주)공차코리아의 공식 멤버십 서비스 애플리케이션 입니다.</p>
+<br>
+<p dir="ltr" data-test-bidi="">○ 공차 멤버십은? </p>
+<p dir="ltr" data-test-bidi="">공차를 이용해주시는 고객님을 위해 스탬프를 적립하여 혜택을 돌려드리는 모바일 멤버십 서비스입니다. 스탬프 적립 및 무료 음료 쿠폰, 이벤트 쿠폰 등 다양한 혜택을 받으실 수 있습니다. 또한 멤버십 오더를 통해 음료, 푸드 등 다양한 메뉴를 주문할 수 있으며, 멤버십 금액권을 충전하거나 나만의 조합으로 멤버십 e-Gift를 선물할 수 있습니다. </p>
+<br>
+<p dir="ltr" data-test-bidi="">○ 주요 기능 안내</p>
+<p dir="ltr" data-test-bidi="">- 멤버십 카드 : 멤버십 카드의 바코드를 제시하시면 스탬프를 적립해 드립니다.</p>
+<p dir="ltr" data-test-bidi="">- 스탬프 카드 : 제조 음료 1잔 당 1개의 스탬프를 적립해 드립니다. 10개의 스탬프가 적립되면 카드가 완성되며 쿠폰으로 전환하여 이용하실 수 있습니다.</p>
+<p dir="ltr" data-test-bidi="">- 멤버십 오더 : 공차 멤버십 앱을 통해 간편하게 주문/결제를 하고 제조가 완료되면 매장에서 바로 찾아갈 수 있는 모바일 간편 주문 서비스입니다.</p>
+<p dir="ltr" data-test-bidi="">- 멤버십 금액권 : 공차에서 제품을 구매하고 결제수단으로 이용할 수 있는 모바일 충전(금액)형 카드입니다.</p>
+<p dir="ltr" data-test-bidi="">- 멤버십 e-Gift : 공차 메뉴 교환권 쿠폰으로 모바일 결제 및 현장 결제할 수 있습니다.</p>
+<p dir="ltr" data-test-bidi="">- 선물하기 : 공차 멤버십 앱으로 멤버십 금액권과 멤버십 e-Gift를 선물할 수 있는 서비스 입니다.</p>
+<p dir="ltr" data-test-bidi="">- 내쿠폰 : 이벤트 쿠폰을 확인 할 수 있습니다. 쿠폰 이용시에는 쿠폰을 선택해 바코드를 제시하시면 혜택을 받을 수 있습니다.</p>
+<p dir="ltr" data-test-bidi="">- 쿠폰 선물하기 : 내쿠폰에서 받은 쿠폰을 선물할 수 있습니다.</p>
+<p dir="ltr" data-test-bidi="">- 이벤트 : 진행 중인 이벤트를 확인할 수 있습니다. </p>
+<p dir="ltr" data-test-bidi="">- 공지사항 : 신메뉴 출시 소식 및 중요한 공지 사항을 안내드립니다.</p>
+<p dir="ltr" data-test-bidi="">- 매장찾기 : 매장명을 검색하여 위치와 정보를 확인 할 수 있습니다. GPS를 켜면 가장 가까운 매장을 안내드립니다.</p>
+<p dir="ltr" data-test-bidi="">- 이용안내 : 회원 이용약관, 개인정보 처리방침, 위치정보 이용약관외에 고객님이 많이 하시는 질문에 대한 답변을 확인할 수 있습니다.</p>
+<br>
+<p dir="ltr" data-test-bidi="">○ 접근 권한 안내</p>
+<p dir="ltr" data-test-bidi="">- 서비스 이용을 위한 접근권한 허용이 필요합니다. 선택적 접근 권한의 경우 허용하지 않아도 앱 이용은 가능하나 일부 서비스 이용에 제한이 있을 수 있습니다. </p>
+<br>
+<p dir="ltr" data-test-bidi="">[필수적 접근 권한]</p>
+<p dir="ltr" data-test-bidi="">- 없음</p>
+<br>
+<p dir="ltr" data-test-bidi="">[선택적 접근 권한]</p>
+<p dir="ltr" data-test-bidi="">- 알림 : 스탬프 적립 및 쿠폰 발행 정보 알림 </p>
+<p dir="ltr" data-test-bidi="">- 위치 : 주변 매장 검색 시 사용</p>
+<p dir="ltr" data-test-bidi="">- 주소록 : 선물발송 대상의 연락처 검색 시 사용</p>
+<p dir="ltr" data-test-bidi="">- 카메라 : 바코드/QR 코드 인식 시 사용</p>
+<br>
+<p dir="ltr" data-test-bidi="">* Wi-Fi와 데이터 네트워크 환경에서 모두 이용하실 수 있으나, 가입하신 통신사 요금정책에따라 데이터요금이 발생할 수 있습니다.</p>
+<p dir="ltr" data-test-bidi="">* 공차 전 매장에서 사용 가능하나 휴게소 및 일부 매장은 제외됩니다.</p>
+<p dir="ltr" data-test-bidi="">* 애플리케이션의 안정된 사용을 위해 업데이트 버전 등록 시, 고객님의 지속적인 업데이트를 부탁 드립니다.</p>
+<p dir="ltr" data-test-bidi="">* iOS 9.0 이상 버전에서 서비스가 제공됩니다.</p>
+<p dir="ltr" data-test-bidi="">* 애플리케이션 사용 시 불편 및 개선사항 등이 있으실 경우, 리뷰에 의견을 남기시면 답변을 드릴 수 없으므로 고객센터 및 웹사이트로 내용을 보내주시기 바랍니다. </p>
+<br>
+<p dir="ltr" data-test-bidi="">고객센터 : 02-779-7758 (평일 09:00 - 17:00 운영, 주말 및 공휴일 제외) </p>
+<p dir="ltr" data-test-bidi="">웹사이트 : http:// www.gong-cha.co.kr/</p>
+</div>
+
+  
+
+
+    <button aria-hidden="true" class="we-truncate__button link" data-metrics-click="{&quot;actionType&quot;:&quot;more&quot;,&quot;targetType&quot;:&quot;button&quot;,&quot;targetId&quot;:&quot;More&quot;}" data-ember-action="" data-ember-action-407="407">
+      more
+    </button>
+</div>
+        </div>
+      </div>
+    </section>
+
+<!---->
+  <section class="l-content-width section section--bordered whats-new">
+    <div class="section__nav section__nav--small">
+      <h2 class="whats-new__headline">What’s New</h2>
+        <div data-test-we-modal="page-overlay" id="ember232" class="ember-view version-history">  <button class="we-modal__show link" id="modal-trigger-ember232" data-metrics-click="{&quot;actionType&quot;:&quot;open&quot;,&quot;targetType&quot;:&quot;button&quot;,&quot;targetId&quot;:&quot;ModalVersionHistory&quot;}" data-ember-action="" data-ember-action-233="233">Version History</button>
+
+<!----></div>
+    </div>
+    <div class="l-row whats-new__content">
+        <div class="l-column small-12 medium-3 large-4 small-valign-top whats-new__latest">
+          <div class="l-row">
+            <time data-test-we-datetime="" datetime="2020-01-07T08:00:00.000Z" aria-label="7 January 2020" class="">7 Jan 2020</time>
+            <p class="l-column small-6 medium-12 whats-new__latest__version">Version 1.50</p>
+          </div>
+        </div>
+      <div class="l-column small-12 medium-9 large-8 small-valign-top">
+        <div id="ember234" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view">    
+
+      <div data-clamp="" id="ember236" class="we-clamp ember-view"><p dir="ltr" data-test-bidi="">기능 보완</p>
+</div>
+
+  
+
+
+<!----></div>
+      </div>
+    </div>
+  </section>
+
+    <section class="l-content-width section section--bordered">
+      <div class="section__nav">
+        <h2 class="section__headline">Ratings and Reviews</h2>
+      </div>
+        <div id="ember238" class="we-customer-ratings lockup ember-view"><div class="l-row">
+  <div class="we-customer-ratings__stats l-column small-4 medium-6 large-4">
+    <div class="we-customer-ratings__averages"><span class="we-customer-ratings__averages__display">1.4</span> out of 5</div>
+      <div class="we-customer-ratings__count small-hide medium-show">559 Ratings</div>
+  </div>
+  <div class=" l-column small-8 medium-6 large-4">
+    <figure class="we-star-bar-graph">
+        <div class="we-star-bar-graph__row">
+          <span class="we-star-bar-graph__stars we-star-bar-graph__stars--5"></span>
+          <div class="we-star-bar-graph__bar">
+            <div class="we-star-bar-graph__bar__foreground-bar" style="width: 6%;"></div>
+          </div>
+        </div>
+        <div class="we-star-bar-graph__row">
+          <span class="we-star-bar-graph__stars we-star-bar-graph__stars--4"></span>
+          <div class="we-star-bar-graph__bar">
+            <div class="we-star-bar-graph__bar__foreground-bar" style="width: 3%;"></div>
+          </div>
+        </div>
+        <div class="we-star-bar-graph__row">
+          <span class="we-star-bar-graph__stars we-star-bar-graph__stars--3"></span>
+          <div class="we-star-bar-graph__bar">
+            <div class="we-star-bar-graph__bar__foreground-bar" style="width: 4%;"></div>
+          </div>
+        </div>
+        <div class="we-star-bar-graph__row">
+          <span class="we-star-bar-graph__stars we-star-bar-graph__stars--2"></span>
+          <div class="we-star-bar-graph__bar">
+            <div class="we-star-bar-graph__bar__foreground-bar" style="width: 3%;"></div>
+          </div>
+        </div>
+        <div class="we-star-bar-graph__row">
+          <span class="we-star-bar-graph__stars "></span>
+          <div class="we-star-bar-graph__bar">
+            <div class="we-star-bar-graph__bar__foreground-bar" style="width: 84%;"></div>
+          </div>
+        </div>
+    </figure>
+      <p class="we-customer-ratings__count medium-hide">559 Ratings</p>
+  </div>
+</div>
+</div>
+      <div class="l-row l-row--peek">
+              
+              <div id="ember246" class="ember-view small-valign-top l-column--equal-height l-column small-4 medium-6 large-4"><div data-test-we-modal="page-overlay" id="ember247" class="ember-view"><!---->
+<!----></div>
+
+
+                <div aria-labelledby="we-customer-review-0" id="ember248" class="we-customer-review lockup ember-view"><figure aria-label="1 out of 5" id="ember249" class="we-star-rating ember-view we-customer-review__rating we-star-rating--large"><span class="we-star-rating-stars-outlines">
+  <span class="we-star-rating-stars we-star-rating-stars-1"></span>
+</span>
+<!----></figure>
+
+<div class="we-customer-review__header we-customer-review__header--user">
+  <span dir="ltr" id="ember250" class="we-truncate we-truncate--single-line ember-view we-customer-review__user">  업뎃너무했어
+</span>
+
+  <span class="we-customer-review__separator">, </span>
+
+  <time data-test-customer-review-date="" datetime="2019-05-14T09:25:44.000Z" aria-label="14 May 2019" class="we-customer-review__date">14/05/2019</time>
+</div>
+
+<h3 dir="ltr" id="we-customer-review-0" class="we-truncate we-truncate--single-line ember-view we-customer-review__title">  진짜 열받네요
+</h3>
+
+  <blockquote id="ember251" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view we-customer-review__body">    
+
+      <div data-clamp="" id="ember253" class="we-clamp ember-view" ismorertl="false" style="height: 72px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);"><p dir="ltr" data-test-bidi="">이벤트를 줬으면 하게해줘야죠. 이런 거지같은 서버를 만들어놓고 바쁜데 매장안에서 30분 넘게 하다가 결국 열은 열대로 받고 제돈주고 사먹었습니다. 먹지말라는겁니까 뭡니까? 사장님 말 들어보니 12시부터 안됐다는데 여섯시간동안 뭐하고.... 공차마니아인데 이 어플때문에 정떨어지게 생겼음 최악 중에 최악이네요!!</p>
+</div>
+
+  
+
+
+    <button aria-hidden="true" class="we-truncate__button link" data-metrics-click="{&quot;actionType&quot;:&quot;more&quot;,&quot;targetType&quot;:&quot;button&quot;,&quot;targetId&quot;:&quot;More&quot;}" data-ember-action="" data-ember-action-408="408">
+      more
+    </button>
+</blockquote>
+
+<!----></div>
+              
+</div>
+          
+    
+              <div id="ember256" class="ember-view small-valign-top l-column--equal-height l-column small-4 medium-6 large-4"><div data-test-we-modal="page-overlay" id="ember257" class="ember-view"><!---->
+<!----></div>
+
+
+                <div aria-labelledby="we-customer-review-1" id="ember258" class="we-customer-review lockup ember-view"><figure aria-label="4 out of 5" id="ember259" class="we-star-rating ember-view we-customer-review__rating we-star-rating--large"><span class="we-star-rating-stars-outlines">
+  <span class="we-star-rating-stars we-star-rating-stars-4"></span>
+</span>
+<!----></figure>
+
+<div class="we-customer-review__header we-customer-review__header--user">
+  <span dir="ltr" id="ember260" class="we-truncate we-truncate--single-line ember-view we-customer-review__user">  타로버블티펄추가
+</span>
+
+  <span class="we-customer-review__separator">, </span>
+
+  <time data-test-customer-review-date="" datetime="2018-10-11T14:16:00.000Z" aria-label="11 October 2018" class="we-customer-review__date">11/10/2018</time>
+</div>
+
+<h3 dir="ltr" id="we-customer-review-1" class="we-truncate we-truncate--single-line ember-view we-customer-review__title">  공차 신규매장 추가요청
+</h3>
+
+  <blockquote id="ember261" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view we-customer-review__body">    
+
+      <div data-clamp="" id="ember263" class="we-clamp ember-view" ismorertl="false" style="height: 72px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);"><p dir="ltr" data-test-bidi="">춘천석사점이 오픈한지 한달 조금 안됬는데, 멤버쉽오더가 되지 않네요. 검색에 아예 뜨지않는걸보니 매장 추가가 안되있는것 같습니다. 춘천석사점 추가해서 하루빨리 멤버쉽오더 이용할수있길 바랍니다. 앱은 잘쓰고있어요. 어차피 번호로 적립해서 앱을 여는일이 적지만, 불편사항은 딱히 없습니다. 수고하세요.</p>
+</div>
+
+  
+
+
+    <button aria-hidden="true" class="we-truncate__button link" data-metrics-click="{&quot;actionType&quot;:&quot;more&quot;,&quot;targetType&quot;:&quot;button&quot;,&quot;targetId&quot;:&quot;More&quot;}" data-ember-action="" data-ember-action-409="409">
+      more
+    </button>
+</blockquote>
+
+<!----></div>
+              
+</div>
+          
+    
+              <div id="ember266" class="ember-view small-valign-top l-column--equal-height l-column small-4 medium-6 large-4"><div data-test-we-modal="page-overlay" id="ember267" class="ember-view"><!---->
+<!----></div>
+
+
+                <div aria-labelledby="we-customer-review-2" id="ember268" class="we-customer-review lockup ember-view"><figure aria-label="2 out of 5" id="ember269" class="we-star-rating ember-view we-customer-review__rating we-star-rating--large"><span class="we-star-rating-stars-outlines">
+  <span class="we-star-rating-stars we-star-rating-stars-2"></span>
+</span>
+<!----></figure>
+
+<div class="we-customer-review__header we-customer-review__header--user">
+  <span dir="ltr" id="ember270" class="we-truncate we-truncate--single-line ember-view we-customer-review__user">  사랑해 ㅎㅎㅎ
+</span>
+
+  <span class="we-customer-review__separator">, </span>
+
+  <time data-test-customer-review-date="" datetime="2019-07-22T08:05:29.000Z" aria-label="22 July 2019" class="we-customer-review__date">22/07/2019</time>
+</div>
+
+<h3 dir="ltr" id="we-customer-review-2" class="we-truncate we-truncate--single-line ember-view we-customer-review__title">  촴나 어이가 없네 🤬🤬🤬🤬🤬🤬
+</h3>
+
+  <blockquote id="ember271" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view we-customer-review__body">    
+
+      <div data-clamp="" id="ember273" class="we-clamp ember-view" ismorertl="false" style="height: 72px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);"><p dir="ltr" data-test-bidi="">저기요 지금 장난하세요?? 14세 미만은 공차 먹으면 안되나여?? 그런 드럽고 유치찬란한 법은 누가정했데요??? 어이가 없어서.. 요즘 초등학생들도 알건 다 알아요 그분 시대랑은 전혀 다르니까 착각하지 마시고 14세 미만 안된다는거 바꿔주세요!!</p>
+</div>
+
+  
+
+
+    <button aria-hidden="true" class="we-truncate__button link" data-metrics-click="{&quot;actionType&quot;:&quot;more&quot;,&quot;targetType&quot;:&quot;button&quot;,&quot;targetId&quot;:&quot;More&quot;}" data-ember-action="" data-ember-action-410="410">
+      more
+    </button>
+</blockquote>
+
+<!----></div>
+              
+</div>
+          
+
+      </div>
+        <div class="l-row l-row--margin-top medium-hide">
+              
+<!---->          
+    
+<!---->          
+    
+<!---->          
+    
+<!---->          
+    
+<!---->          
+    
+<!---->          
+    
+<!---->          
+    
+<!---->          
+    
+<!---->          
+    
+<!---->          
+
+        </div>
+    </section>
+
+<!---->
+<!---->
+<section class="l-content-width section section--bordered">
+  <div class="l-row">
+    <div class="l-column small-12">
+      <h2 class="section__headline">Information</h2>
+      <dl class="information-list information-list--app medium-columns">
+          <div class="information-list__item l-row">
+            <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Provider</dt>
+            <dd class="information-list__item__definition l-column medium-9 large-6">
+              Smartro
+            </dd>
+          </div>
+        <div class="information-list__item l-row">
+          <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Size</dt>
+          <dd class="information-list__item__definition l-column medium-9 large-6" aria-label="14.6 megabytes">14.6 MB</dd>
+        </div>
+          <div class="information-list__item l-row">
+            <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Category</dt>
+            <dd class="information-list__item__definition l-column medium-9 large-6">
+                <a href="https://itunes.apple.com/kr/genre/id6012?l=en" class="link" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://itunes.apple.com/kr/genre/id6012?l=en&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;GenrePage&quot;}">
+                  Lifestyle
+                </a>
+            </dd>
+          </div>
+        <div class="information-list__item l-row">
+          <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Compatibility</dt>
+          <dd id="ember283" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view information-list__item__definition l-column medium-9 large-6">    
+
+      <div data-clamp="" id="ember285" class="we-clamp ember-view"><p dir="ltr" data-test-bidi="">Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.</p>
+</div>
+
+  
+
+
+<!----></dd>
+        </div>
+<!---->        <div class="information-list__item l-row">
+          <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Languages</dt>
+          <dd id="ember287" class="information-list__item__definition l-column medium-9 large-6 we-truncate we-truncate--multi-line we-truncate--interactive ember-view">    
+
+      <div data-clamp="" id="ember289" class="we-clamp ember-view"><p dir="ltr" data-test-bidi="">Korean</p>
+</div>
+
+  
+
+
+<!----></dd>
+        </div>
+        <div class="information-list__item l-row">
+          <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Age Rating</dt>
+          <dd class="information-list__item__definition l-column medium-9 large-6">4+</dd>
+        </div>
+<!----><!---->        <div class="information-list__item l-row">
+          <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Copyright</dt>
+          <dd class="information-list__item__definition l-column medium-9 large-6 information-list__item__definition--copyright">© COPYRIGHT 2011 SMARTRO ALL RIGHTS RESERVED.</dd>
+        </div>
+          <div class="information-list__item l-row">
+            <dt class="information-list__item__term medium-valign-top l-column medium-3 large-2">Price</dt>
+            <dd class="information-list__item__definition l-column medium-9 large-6">Free</dd>
+          </div>
+<!---->
+      </dl>
+    </div>
+    <div class="l-column small-hide medium-show medium-9 medium-offset-3 large-10 large-offset-2">
+      <ul class="inline-list inline-list--app-extensions">
+          <li class="inline-list__item inline-list__item--margin-inline-end-large">
+            <a class="link icon icon-after icon-external" data-metrics-click="{&quot;actionDetails&quot;:{&quot;type&quot;:&quot;developer&quot;},&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;@@url@@&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;@@id@@&quot;}" href="http://www.gong-cha.co.kr/">
+              Developer Website
+            </a>
+          </li>
+          <li class="inline-list__item inline-list__item--margin-inline-end-large">
+            <a class="link icon icon-after icon-external" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;LinkToAppSupport&quot;}" href="http://www.gong-cha.co.kr/">
+              App Support
+            </a>
+          </li>
+<!---->          <li class="inline-list__item inline-list__item--margin-inline-end-large">
+            <a class="link icon icon-after icon-external" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;LinkToPrivacyPolicy&quot;}" href="http://www.gong-cha.co.kr/">
+              Privacy Policy
+            </a>
+          </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section section--link-list l-content-width medium-hide">
+  <ul class="link-list link-list--a">
+      <li class="link-list__item link-list__item--a">
+        <a class="link icon icon-after icon-external" data-metrics-click="{&quot;actionDetails&quot;:{&quot;type&quot;:&quot;developer&quot;},&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;@@url@@&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;@@id@@&quot;}" href="http://www.gong-cha.co.kr/">
+          Developer Website
+        </a>
+      </li>
+      <li class="link-list__item link-list__item--a">
+        <a class="link icon icon-after icon-external" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;LinkToAppSupport&quot;}" href="http://www.gong-cha.co.kr/">
+          App Support
+        </a>
+      </li>
+<!---->      <li class="link-list__item link-list__item--a">
+        <a class="link icon icon-after icon-external" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;targetType&quot;:&quot;link&quot;,&quot;targetId&quot;:&quot;LinkToPrivacyPolicy&quot;}" href="http://www.gong-cha.co.kr/">
+          Privacy Policy
+        </a>
+      </li>
+  </ul>
+</section>
+
+  <section class="l-content-width section section--bordered">
+    <div class="section__nav">
+      <h2 class="section__headline">Supports</h2>
+    </div>
+    <ul class="supports-list l-row">
+        <li class="supports-list__item l-column l-column--grid small-12 medium-6 large-4">
+          <img src="./gongcha_files/supports-FamilySharing@2x-f58f31bc78fe9fe7be3565abccbecb34.png" class="supports-list__item__artwork" alt="">
+          <div class="supports-list__item__copy">
+            <h3 dir="ltr" id="ember292" class="we-truncate we-truncate--single-line ember-view supports-list__item__copy__heading">  Family&nbsp;Sharing
+</h3>
+            <h4 id="ember293" class="we-truncate we-truncate--multi-line we-truncate--interactive ember-view supports-list__item__copy__description">    
+
+      <div data-clamp="" id="ember295" class="we-clamp ember-view"><p dir="ltr" data-test-bidi="">Up to six family members will be able to use this app with Family Sharing enabled.</p>
+</div>
+
+  
+
+
+<!----></h4>
+          </div>
+        </li>
+    </ul>
+  </section>
+
+    <section class="l-content-width section section--bordered">
+      <div class="section__nav">
+        <h2 class="section__headline">
+          More By This Developer
+        </h2>
+        <a data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;targetType&quot;:&quot;button&quot;,&quot;targetId&quot;:&quot;SeeAllDeveloperOtherApps&quot;}" rel="nofollow" data-we-link-to-exclude="" href="https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en#see-all/developer-other-apps" id="ember297" style="display: none;" class="link section__nav__see-all-link ember-view">See All</a>
+      </div>
+
+      <div class="l-row l-row--peek">
+            
+    
+          <a aria-labelledby="we-lockup-labelled-by-0" data-metrics-location="{&quot;locationType&quot;:&quot;shelfDeveloperOtherApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B-global-vacation-club/id1042162835?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;1042162835&quot;}" href="https://apps.apple.com/kr/app/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B-global-vacation-club/id1042162835?l=en" id="ember301" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember302" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/146x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/292x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/157x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/314x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/320x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/640x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e3/9c/89/e39c892e-d705-fac3-31ab-42d1337de4d3/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/960x0w.png 3x">
+        <img class="we-artwork__image ember302" src="./gongcha_files/320x0w.png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember302, #ember302::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember302::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember302, #ember302::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember302::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember302, #ember302::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember302::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-0" class="we-lockup__title " aria-label="미래에셋 Global Vacation Club">
+        <div dir="ltr" id="ember306" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  미래에셋 Global Vacation Club
+</div>
+    </div>
+
+      <div dir="ltr" id="ember307" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-1" data-metrics-location="{&quot;locationType&quot;:&quot;shelfDeveloperOtherApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%B0%EC%A0%9C/id1435846752?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;1435846752&quot;}" href="https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%B0%EC%A0%9C/id1435846752?l=en" id="ember309" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember310" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/146x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/292x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/157x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/314x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/320x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/640x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/a2/98/2da2981d-bb1f-f8f8-03af-5d9116ead04e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/960x0w.png 3x">
+        <img class="we-artwork__image ember310" src="./gongcha_files/320x0w(1).png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember310, #ember310::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember310::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember310, #ember310::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember310::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember310, #ember310::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember310::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-1" class="we-lockup__title " aria-label="스마트로 모바일결제">
+        <div dir="ltr" id="ember314" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  스마트로 모바일결제
+</div>
+    </div>
+
+      <div dir="ltr" id="ember315" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Finance
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-2" data-metrics-location="{&quot;locationType&quot;:&quot;shelfDeveloperOtherApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/bizzle-%EB%B9%84%EC%A6%90/id1447061681?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;1447061681&quot;}" href="https://apps.apple.com/kr/app/bizzle-%EB%B9%84%EC%A6%90/id1447061681?l=en" id="ember317" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember318" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/146x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/292x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/157x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/314x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/320x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/640x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/d3/1c/4bd31cf6-2c3e-84fa-f45e-e1266cd25a46/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/960x0w.png 3x">
+        <img class="we-artwork__image ember318" src="./gongcha_files/320x0w(2).png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember318, #ember318::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember318::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember318, #ember318::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember318::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember318, #ember318::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember318::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-2" class="we-lockup__title " aria-label="Bizzle(비즐)">
+        <div dir="ltr" id="ember322" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  Bizzle(비즐)
+</div>
+    </div>
+
+      <div dir="ltr" id="ember323" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Business
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-3" data-metrics-location="{&quot;locationType&quot;:&quot;shelfDeveloperOtherApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A1%9C-pos-asp/id1453949575?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;1453949575&quot;}" href="https://apps.apple.com/kr/app/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%A1%9C-pos-asp/id1453949575?l=en" id="ember325" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember326" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/146x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/292x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/157x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/314x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/320x0w.png 1x,https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/640x0w.png 2x,https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/20/c5/8f/20c58f6f-ce10-daba-9a7a-06443532875b/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/960x0w.png 3x">
+        <img class="we-artwork__image ember326" src="./gongcha_files/320x0w(3).png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember326, #ember326::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember326::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember326, #ember326::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember326::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember326, #ember326::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember326::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-3" class="we-lockup__title " aria-label="스마트로 POS ASP">
+        <div dir="ltr" id="ember330" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  스마트로 POS ASP
+</div>
+    </div>
+
+      <div dir="ltr" id="ember331" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Business
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-4" data-metrics-location="{&quot;locationType&quot;:&quot;shelfDeveloperOtherApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%EB%B9%84%EC%A6%90%EC%83%B5/id1458589662?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;1458589662&quot;}" href="https://apps.apple.com/kr/app/%EB%B9%84%EC%A6%90%EC%83%B5/id1458589662?l=en" id="ember333" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember334" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/146x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/292x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/157x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/314x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/320x0w.png 1x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/640x0w.png 2x,https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/71/3d/d8/713dd896-8ab6-1889-3ad8-20593175f799/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/960x0w.png 3x">
+        <img class="we-artwork__image ember334" src="./gongcha_files/320x0w(4).png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember334, #ember334::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember334::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember334, #ember334::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember334::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember334, #ember334::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember334::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-4" class="we-lockup__title " aria-label="비즐샵">
+        <div dir="ltr" id="ember338" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  비즐샵
+</div>
+    </div>
+
+      <div dir="ltr" id="ember339" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-5" data-metrics-location="{&quot;locationType&quot;:&quot;shelfDeveloperOtherApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%EB%B9%84%EC%A6%90%EC%83%B5-%EB%A7%A4%EC%9E%A5%EC%9A%A9/id1459240025?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;1459240025&quot;}" href="https://apps.apple.com/kr/app/%EB%B9%84%EC%A6%90%EC%83%B5-%EB%A7%A4%EC%9E%A5%EC%9A%A9/id1459240025?l=en" id="ember341" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember342" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/146x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/292x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/157x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/314x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+        <source class="we-artwork__source" srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/320x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/640x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/a0/17/9ca01760-dbf3-a507-5c79-b78316ab1bbf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-85-220.png/960x0w.png 3x">
+        <img class="we-artwork__image ember342" src="./gongcha_files/320x0w(5).png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember342, #ember342::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember342::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember342, #ember342::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember342::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember342, #ember342::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember342::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-5" class="we-lockup__title " aria-label="비즐샵(매장용)">
+        <div dir="ltr" id="ember346" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  비즐샵(매장용)
+</div>
+    </div>
+
+      <div dir="ltr" id="ember347" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Business
+</div>
+<!----></div>
+</a>
+        
+
+
+
+      </div>
+    </section>
+
+    <section class="l-content-width section section--bordered">
+      <div class="section__nav">
+        <h2 class="section__headline">
+          You May Also Like
+        </h2>
+        <a data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;targetType&quot;:&quot;button&quot;,&quot;targetId&quot;:&quot;SeeAllCustomersAlsoBoughtApps&quot;}" rel="nofollow" data-we-link-to-exclude="" href="https://apps.apple.com/kr/app/%EA%B3%B5%EC%B0%A8/id1083295050?l=en#see-all/customers-also-bought-apps" id="ember348" class="link section__nav__see-all-link ember-view">See All</a>
+      </div>
+
+      <div class="l-row l-row--peek">
+            
+    
+          <a aria-labelledby="we-lockup-labelled-by-6" data-metrics-location="{&quot;locationType&quot;:&quot;shelfCustomersAlsoBoughtApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%ED%95%B4%ED%94%BC%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%B9%B4%EB%93%9C/id376313183?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;376313183&quot;}" href="https://apps.apple.com/kr/app/%ED%95%B4%ED%94%BC%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%B9%B4%EB%93%9C/id376313183?l=en" id="ember352" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember353" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/146x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/292x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/157x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/314x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/320x0w.png 1x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/640x0w.png 2x,https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/960x0w.png 3x">
+        <img class="we-artwork__image we-artwork__image--lazyload ember353" src="data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 320 320%22 %2F%3E" data-src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/97/0e/33/970e33d6-40da-6fb1-ac01-1549a6afcfad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/320x0w.png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember353, #ember353::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember353::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember353, #ember353::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember353::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember353, #ember353::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember353::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-6" class="we-lockup__title " aria-label="해피포인트카드">
+        <div dir="ltr" id="ember357" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  해피포인트카드
+</div>
+    </div>
+
+      <div dir="ltr" id="ember358" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-7" data-metrics-location="{&quot;locationType&quot;:&quot;shelfCustomersAlsoBoughtApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/cj-one/id387363739?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;387363739&quot;}" href="https://apps.apple.com/kr/app/cj-one/id387363739?l=en" id="ember360" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember361" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/146x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/292x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/157x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/314x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/320x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/640x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/960x0w.png 3x">
+        <img class="we-artwork__image we-artwork__image--lazyload ember361" src="data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 320 320%22 %2F%3E" data-src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/26/f0/ed/26f0edb4-7c22-8e99-c266-24a753a38714/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/320x0w.png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember361, #ember361::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember361::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember361, #ember361::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember361::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember361, #ember361::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember361::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-7" class="we-lockup__title " aria-label="CJ ONE">
+        <div dir="ltr" id="ember365" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  CJ ONE
+</div>
+    </div>
+
+      <div dir="ltr" id="ember366" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-8" data-metrics-location="{&quot;locationType&quot;:&quot;shelfCustomersAlsoBoughtApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%EB%82%98%EB%A7%8C%EC%9D%98%EB%83%89%EC%9E%A5%EA%B3%A0-gs25/id426644449?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;426644449&quot;}" href="https://apps.apple.com/kr/app/%EB%82%98%EB%A7%8C%EC%9D%98%EB%83%89%EC%9E%A5%EA%B3%A0-gs25/id426644449?l=en" id="ember368" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember369" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/146x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/292x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/157x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/314x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/320x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/640x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/960x0w.png 3x">
+        <img class="we-artwork__image we-artwork__image--lazyload ember369" src="data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 320 320%22 %2F%3E" data-src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/dd/2d/a3dd2d0a-530a-8e05-d989-c4726613ac03/AppIcon-0-1x_U007emarketing-0-85-220-4.png/320x0w.png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember369, #ember369::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember369::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember369, #ember369::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember369::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember369, #ember369::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember369::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-8" class="we-lockup__title " aria-label="나만의냉장고(GS25)">
+        <div dir="ltr" id="ember373" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  나만의냉장고(GS25)
+</div>
+    </div>
+
+      <div dir="ltr" id="ember374" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-9" data-metrics-location="{&quot;locationType&quot;:&quot;shelfCustomersAlsoBoughtApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/l-point-%EC%97%98%ED%8F%AC%EC%9D%B8%ED%8A%B8/id473250588?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;473250588&quot;}" href="https://apps.apple.com/kr/app/l-point-%EC%97%98%ED%8F%AC%EC%9D%B8%ED%8A%B8/id473250588?l=en" id="ember376" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember377" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/146x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/292x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/157x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/314x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/320x0w.png 1x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/640x0w.png 2x,https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/960x0w.png 3x">
+        <img class="we-artwork__image we-artwork__image--lazyload ember377" src="data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 320 320%22 %2F%3E" data-src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/68/14/eb/6814ebb2-6873-39fa-c126-d08e978882b4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/320x0w.png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember377, #ember377::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember377::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember377, #ember377::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember377::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember377, #ember377::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember377::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-9" class="we-lockup__title " aria-label="L.POINT - 엘포인트">
+        <div dir="ltr" id="ember381" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  L.POINT - 엘포인트
+</div>
+    </div>
+
+      <div dir="ltr" id="ember382" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-10" data-metrics-location="{&quot;locationType&quot;:&quot;shelfCustomersAlsoBoughtApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;873779010&quot;}" href="https://apps.apple.com/kr/app/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81/id873779010?l=en" id="ember384" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember385" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/146x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/292x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/438x0w.jpg 3x" media="(min-width: 1069px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/157x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/314x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/471x0w.jpg 3x" media="(min-width: 736px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/320x0w.jpg 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/640x0w.jpg 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/960x0w.jpg 3x">
+        <img class="we-artwork__image we-artwork__image--lazyload ember385" src="data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 320 320%22 %2F%3E" data-src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/49/a2/0f49a27e-2f1b-c568-37a4-1439a97e1890/AppIcon-0-1x_U007emarketing-0-0-85-220-5.jpeg/320x0w.jpg" style="background-color: #ffffff;" alt="" height="320" width="320">
+
+  <style>
+    .ember385, #ember385::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember385::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember385, #ember385::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember385::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember385, #ember385::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember385::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-10" class="we-lockup__title " aria-label="올리브영">
+        <div dir="ltr" id="ember389" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  올리브영
+</div>
+    </div>
+
+      <div dir="ltr" id="ember390" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+    
+    
+          <a aria-labelledby="we-lockup-labelled-by-11" data-metrics-location="{&quot;locationType&quot;:&quot;shelfCustomersAlsoBoughtApps&quot;}" data-metrics-click="{&quot;actionType&quot;:&quot;navigate&quot;,&quot;actionUrl&quot;:&quot;https://apps.apple.com/kr/app/payco-%ED%8E%98%EC%9D%B4%EC%BD%94-%ED%98%9C%ED%83%9D%EA%B9%8C%EC%A7%80-%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%84%ED%8E%B8%EA%B2%B0%EC%A0%9C/id924292102?l=en&quot;,&quot;targetType&quot;:&quot;card&quot;,&quot;targetId&quot;:&quot;924292102&quot;}" href="https://apps.apple.com/kr/app/payco-%ED%8E%98%EC%9D%B4%EC%BD%94-%ED%98%9C%ED%83%9D%EA%B9%8C%EC%A7%80-%EB%98%91%EB%98%91%ED%95%9C-%EA%B0%84%ED%8E%B8%EA%B2%B0%EC%A0%9C/id924292102?l=en" id="ember392" class="we-lockup targeted-link l-column small-2 medium-3 large-2 we-lockup--shelf-align-top ember-view">    <picture dir="ltr" id="ember393" class="we-lockup__artwork we-artwork--lockup we-artwork--fullwidth we-artwork--ios-app-icon we-artwork ember-view">
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/146x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/292x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/438x0w.png 3x" media="(min-width: 1069px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/157x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/314x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/471x0w.png 3x" media="(min-width: 736px)">
+<!---->
+
+<!---->
+        <source class="we-artwork__source we-artwork__source--lazyload" srcset="" data-srcset="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/320x0w.png 1x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/640x0w.png 2x,https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/960x0w.png 3x">
+        <img class="we-artwork__image we-artwork__image--lazyload ember393" src="data:image/svg+xml;utf8,%3Csvg xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 viewBox%3D%220 0 320 320%22 %2F%3E" data-src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/49/4f/5d/494f5dae-318f-5009-af62-fd3edae532f6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/320x0w.png" style="" alt="" height="320" width="320">
+
+  <style>
+    .ember393, #ember393::before {
+          width: 320px;
+          height: 320px;
+        }
+        .ember393::before {
+          padding-top: 100%;
+        }
+@media (min-width: 736px) {
+          .ember393, #ember393::before {
+          width: 157px;
+          height: 157px;
+        }
+        .ember393::before {
+          padding-top: 100%;
+        }
+        }
+@media (min-width: 1069px) {
+          .ember393, #ember393::before {
+          width: 146px;
+          height: 146px;
+        }
+        .ember393::before {
+          padding-top: 100%;
+        }
+        }
+  </style>
+</picture>
+
+<!---->
+<div class="we-lockup__copy">
+<!---->    <div id="we-lockup-labelled-by-11" class="we-lockup__title " aria-label="PAYCO - 페이코, 혜택까지 똑똑한 간편결제">
+        <div dir="ltr" id="ember397" class="we-truncate we-truncate--single-line ember-view targeted-link__target">  PAYCO - 페이코, 혜택까지 똑똑한 간편결제
+</div>
+    </div>
+
+      <div dir="ltr" id="ember398" class="we-truncate we-truncate--single-line ember-view we-lockup__subtitle targeted-link__target">  Lifestyle
+</div>
+<!----></div>
+</a>
+        
+
+
+
+      </div>
+    </section>
+</div>
+
+<!---->
+
+<!----></div>
+</div></div>
+
+  <!---->
+
+  <!---->
+
+  <!---->
+
+</main>
+</div><footer id="ac-globalfooter" class="no-js" role="contentinfo" lang="ko-KR" dir="ltr"><div class="ac-gf-content"><section class="ac-gf-footer">
+	<div class="ac-gf-footer-shop" x-ms-format-detection="none">
+		다양한 쇼핑 방법: <a href="https://www.apple.com/kr/retail/">Apple Store</a>를 방문하거나, <span class="nowrap">080-330-8877번으로 전화하거나, <a href="https://locate.apple.com/kr/ko/">리셀러</a>를 찾아보세요</span>.
+	</div>
+	<div class="ac-gf-footer-locale">
+		<a class="ac-gf-footer-locale-link" href="https://www.apple.com/choose-country-region/" title="국가 또는 지역을 선택하세요." aria-label="대한민국. 국가 또는 지역을 선택하세요."><span class="ac-gf-footer-locale-flag" data-hires="false"></span>대한민국</a>
+	</div>
+	<div class="ac-gf-footer-legal">
+		<div class="ac-gf-footer-legal-copyright">Copyright © 2019 Apple Inc. 모든 권리 보유.</div>
+		<div class="ac-gf-footer-legal-links">
+			<a class="ac-gf-footer-legal-link" href="https://www.apple.com/kr/privacy/privacy-policy/">개인정보 처리방침</a>
+			<a class="ac-gf-footer-legal-link" href="https://www.apple.com/kr/legal/internet-services/terms/site.html">약관</a>
+			<a class="ac-gf-footer-legal-link" href="https://www.apple.com/kr/shop/goto/help/sales_refunds">판매 및 환불</a>
+			<a class="ac-gf-footer-legal-link" href="https://www.apple.com/kr/legal/">법적 고지</a>
+			<a class="ac-gf-footer-legal-link" href="https://www.apple.com/kr/sitemap/">사이트 맵</a>
+		</div>
+	</div>
+</section>
+</div></footer><script type="text/javascript" src="./gongcha_files/ac-global-nav.c7103d404f0e331bb4a21cc5c10991c5.js.다운로드" data-global-elements-nav-script="" async=""></script><script type="text/javascript" src="./gongcha_files/ac-global-footer.d87aa5188a9a04c462d9d7452edb1b20.js.다운로드" data-global-elements-footer-script="" async=""></script></body></html>

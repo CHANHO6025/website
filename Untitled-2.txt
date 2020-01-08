@@ -1,0 +1,95 @@
+<%@page import="my.student.StudentDTO"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import = "java.sql.*" %>
+<jsp:useBean id="st" class="my.student.StudentDAO" />
+ 
+<%
+ 
+    //1.검색할 사람의 이름을 받아오자
+    String name = request.getParameter("name");
+   
+    //2.유효성 체크
+    if(name==null || name.trim().equals("")){
+        response.sendRedirect("student2.jsp");
+        return;
+    }
+   
+    StudentDTO arr[] = st.findStudent(name.trim());
+    if(arr == null || arr.length==0){
+        out.println(name+"님 정보가 없습니다.");
+        out.println("<br><a href='student2.jsp'>돌아가기</a>");
+       
+        return;
+       
+    } 
+%>
+ 
+<body>
+<div align=center>
+ 
+    <hr color=navy width=400>
+        <H2>학생 정보 보기2</H2>
+        <a href="student2.jsp">등록</a>|
+        <a href="find2.jsp">찾기</a>
+    <hr color=navy width=400>
+       
+    <table width=500 border=1>
+    <tr bgcolor=#ccff00>
+        <th width=30%>아이디</th><th width=30%>이름</th><th width=40%>학급</th>
+    </tr>
+        <!-- ------------------------- -->
+   
+    <%
+    //확장 for문
+    for(StudentDTO dto: arr){
+           
+    %>
+    <tr>
+        <td><%=dto.getId() %></td>
+        <td><%=dto.getName() %></td>
+        <td><%=dto.getCname() %></td>
+       
+    </tr>
+    <% 
+    }//end for
+    %>         
+        <!-- ------------------------- -->
+    </table> 
+</div> 
+</body> 
+
+
+delete2.jsp
+
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<jsp:useBean id="st" class="my.student.StudentDAO" />
+<%
+    //1.사용자가 입력한 값 받아오자
+    String id=request.getParameter("id");
+   
+    //2. 유효성 체크
+    if(id == null || id.trim().equals("")){
+        response.sendRedirect("student2.jsp");
+        return;
+       
+    }
+    //비즈니스 메소드 호출
+    int result = st.deleteStudent(id.trim());
+   
+    String msg ="" , url = "student2.jsp";
+   
+    if(result > 0){
+        msg = "삭제성공!";
+        url ="list2.jsp";
+    }else{
+        msg = "삭제실패!";
+       
+    }
+ 
+%>
+<script>
+    alert("<%=msg%>");
+    location.href="<%=url%>";
+</script>
