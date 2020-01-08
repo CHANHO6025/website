@@ -1,0 +1,45 @@
+<style>
+body{
+margin:0px;
+padding:0px;
+background-color:#727091;}
+a{
+color:grey;}
+.banner{
+background-image:url("img/menu1.jpg");
+background-size:cover;
+width:auto;
+height:500px;
+text-align:center;
+font-size:50px;
+color:white;
+padding-top:20px;
+}
+.header{
+height:40px;
+margin-top:0px;
+padding-top:-20px;
+background-color:white;
+text-align:center;
+color:grey;
+font-size:20px;
+
+}
+.side{
+float:right;
+border:1px solid red;
+padding:10px;
+margin:100;
+font-family:맑은 고딕;
+font-size:20px;
+color:#727091
+}
+.contents{
+min-height:500px ;
+padding:50px;
+background-color:white;
+font-family:맑은 고딕;
+font-size:30px;
+color:red;
+}
+</style>
